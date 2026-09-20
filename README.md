@@ -60,6 +60,8 @@ hotel-management/
 ---
 
 ## 📸 Pages
+<img width="1920" height="843" alt="Hotel " src="https://github.com/user-attachments/assets/55b4137f-c9e2-4ac9-b5a4-12f0866cf2fb" />
+
 
 - **Home** — Hero section, stats, room category overview
 - **Rooms** — All rooms with availability status and filters
@@ -67,6 +69,3 @@ hotel-management/
 - **My Bookings** — List of all bookings with cancel option
 - **Admin** — Dashboard with revenue, room status table, checkout
 
----
-
-*This project was built as part of an internship assignment.*
